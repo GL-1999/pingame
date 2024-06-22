@@ -34,7 +34,7 @@ public class DesktopGame {
 
 			JOptionPane.showMessageDialog(null, result);
 			System.out.println(score);
-			System.out.println("welcome to my world radha krishna ji jai");
+			System.out.println("welcome to my world radha krishna ji jai ho");
 			for (GameSummary gameSummary : history) {
 				System.out.println(gameSummary);
 			}
